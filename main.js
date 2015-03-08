@@ -1,0 +1,3 @@
+function algus() {
+    alert("kartl");
+}
